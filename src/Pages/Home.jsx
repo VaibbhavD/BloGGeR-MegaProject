@@ -25,7 +25,7 @@ function Home() {
                     <div className="flex flex-wrap text-lg ">
                         <div className="p-2 w-full flex space-x-32  h-88 -mb-32">
                             <img src="https://www.speora.com/wp-content/uploads/2019/10/blog.jpg" className="h-1/2 w-full drop-shadow-2xl  rounded-lg"/>
-                            <p className=" h-fit mt-28 p-10 rounded-3xl bg-gray-600 text-neutral-200 ">reate a beautiful blog that fits your style. Choose from a selection of easy-to-use templates – all with flexible layouts and hundreds of background images – or design something new!</p>
+                            <p className=" h-fit mt-28 p-10 rounded-3xl bg-gray-600 text-neutral-200 ">Create a beautiful blog that fits your style. Choose from a selection of easy-to-use templates – all with flexible layouts and hundreds of background images – or design something new!</p>
                         </div>
                         <div className="p-2 w-full flex space-x-32 -mb-40">
                             <p className="h-fit mt-24 p-10 rounded-3xl  bg-neutral-100"><b>Hang onto your memories </b>
